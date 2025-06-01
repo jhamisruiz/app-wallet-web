@@ -3,12 +3,18 @@
 ## Project setup
 ```
 npm install
+ or
+yarn add
 ```
 
+## Local Server
 ### Compiles and hot-reloads for development
 ```
 npm run serve
 ```
+
+### WEb
+go [http://localhost:8080](http://localhost:8080).
 
 ### Compiles and minifies for production
 ```
